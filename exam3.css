@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+}
+.title1 {
+  width: 13vh;
+  width: 100%;
+  background-color: darkslateblue;
+  color: white;
+  text-align: center;
+  padding: 10px 0px;
+  font-family:
+    "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+    Arial, sans-serif;
+  border-bottom: 4px solid rgb(230, 182, 61);
+  line-height: 1.5;
+}
+.bg-img1 {
+  background-image: url("./image.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 87vh;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 330px;
+}
+.title2 {
+  color: white;
+  font-size: 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 500;
+}
+.subtitle1 {
+  background-color: rgba(0, 0, 0, 0.584);
+  border-radius: 15px;
+  width: 570px;
+  height: 70px;
+  margin-left: 468px;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  letter-spacing: 1.3px;
+  font-weight: 300;
+  padding-top: 10px;
+  font-size: 18px;
+}
+.title3 {
+  color: darkslateblue;
+  text-align: center;
+  padding: 50px;
+  font-weight: 400;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.div-box1 {
+  width: 100%;
+  height: 30vh;
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  gap: 30px;
+}
+.div1 {
+  width: 215px;
+  height: 100px;
+  padding: 10px;
+  box-shadow: 5px 5px 5px grey;
+  border: 1px solid grey;
+  border-radius: 10px;
+}
+.div-box2 {
+  background-color: rgb(210, 228, 240);
+  width: 100%;
+  height: 110vh;
+}
+.title5 {
+  color: darkslateblue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 400;
+  padding-top: 50px;
+  margin-left: 560px;
+}
+.danni {
+  background-color: #fff;
+  width: 530px;
+  height: 700px;
+  border-radius: 10px;
+  margin-left: 500px;
+  margin-top: 30px;
+  display: block;
+}
+.fieldset1 {
+  width: 470px;
+  height: 250px;
+  margin: 15px;
+  padding-top: 20px;
+}
